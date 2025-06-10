@@ -2,10 +2,10 @@ package blind_75
 
 /**
 * Author: Kelvin Le
- * Problem: 11. Container With Most Water
+* Problem: 11. Container With Most Water
 * Link:https://leetcode.com/problems/container-with-most-water/description/
 * Created at: 07/06/2025
-*/
+ */
 
 /**
  * Approach: Brute Force
